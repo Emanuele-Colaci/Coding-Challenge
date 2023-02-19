@@ -1,0 +1,65 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0 300px;
+    
+}
+
+.container{
+    padding: 50px;
+    margin: 30px 30px 30px 30px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.500);
+}
+
+#logo{
+    width: 250px;
+}
+
+h1{
+    color: #39ff14;
+}
+
+.container-nav{
+    background-color: #39ff14;
+    padding: 10px;
+}
+
+main{
+    text-align: left;
+    color: white;
+}
+
+h2{
+    display: inline;
+}
+
+span{
+    display: block;
+}
+
+.stato-carica{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.stato-carica1{
+    background-color: #39ff14;
+    padding: 10px;
+    border-radius: 5px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.stato-carica2{
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 20px;
+}
